@@ -48,7 +48,7 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-size": "12px",
+              "font-size": "14px",
               "font-family": "'Merriweather', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700"
             },
@@ -190,10 +190,10 @@
             "iconFont": {
               "class": "",
               "linkInNewWindow": false,
-              "name": "pinterest",
+              "name": "googleplus",
               "family": "socicon",
               "active": true,
-              "link": "https://www.pinterest.com/pin/create/button",
+              "link": "https://plus.google.com/share",
               "size": 0,
               "color": "#ffffff",
               "newWindow": false
@@ -226,8 +226,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MARKNADSFÖRINGSMATERIAL</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">START</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HEMSIDA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-4\">Om hemsidor</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#extPricingTable1-c\">Priser</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Exempel liten site</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Exempel stor site</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#msg-box5-d\" data-toggle=\"dropdown-submenu\">REKLAMMATERIAL</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Exempel</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-h\">ÖVRIGT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"http://www.sverigestalare.se\" target=\"_blank\">SVERIGES TALARE</a></li>"
+          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MARKNADSFÖRING</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">START</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">HEMSIDA</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-4\">Om hemsidor</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#extPricingTable1-c\">Priser</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Exempel liten site</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Exempel stor site</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#msg-box5-d\" data-toggle=\"dropdown-submenu\">REKLAMMATERIAL</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page1.html\">Exempel</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-h\">ÖVRIGT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"http://www.sverigestalare.se\" target=\"_blank\">SVERIGES TALARE</a></li>"
         },
         {
           "_tags": [
@@ -809,7 +809,7 @@
             "columns": "2",
             "showImages": true,
             "showTitles": true,
-            "showSubtitles": true,
+            "showSubtitles": false,
             "ShowTexts": true,
             "showButtons": true
           },
@@ -827,7 +827,7 @@
           },
           "title1": "FOTOGRAFI",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "caption1": "Saknar du bra fotografier på dig själv?<br>Hör av dig för en offert.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">BE OM OFFERT</a>",
           "media2": {
             "image": {
@@ -843,7 +843,7 @@
           },
           "title2": "ILLUSTRATION",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "caption2": "Behöver du hjälp med illustrationer?<br>Hör av dig för en offert.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">BE OM OFFERT</a>",
           "media3": {
             "image": {
@@ -1015,10 +1015,10 @@
         }
       ]
     },
-    "page1.html": {
+    "ovrigt.html": {
       "settings": {
-        "title": "Web Builder Title",
-        "meta_descr": "Web Builder Description"
+        "title": "Övrigt",
+        "meta_descr": ""
       },
       "components": [
         {
